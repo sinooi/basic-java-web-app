@@ -1,4 +1,4 @@
-<h1>Welcome to the coolest Tomcat webapp ever !</h1>
+<h1>Welcome to the super Tomcat webapp ever !</h1>
 
 <h2>Interesting things to do for today, Sin Ooi</h2>
 
